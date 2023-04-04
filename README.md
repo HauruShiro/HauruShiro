@@ -38,7 +38,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Fdubois97&theme=nightowl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HauruShiro&theme=nightowl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -52,7 +52,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Fdubois97&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=HauruShiro&&style=flat-square" align="center" />
 </div>  
   
 
