@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm L'idiot du Village , a DevOps 👨‍💻 🚀</div>  
+### <div align="center">I'm L'idiot du Village 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on some DevOps project  
+- 🔭 I’m currently working on some brouette project  
   
 
-- 🌱 I try to work on everything related to DevOps  
+- 🌱 I try to work on everything related to the soupe à l'oignon  
   
 
 - ⚡ Fun fact: mon gaté  
